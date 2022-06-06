@@ -1,7 +1,6 @@
 {
-  "name": "vanilla-three-awesome",
-  "private": true,
-  "version": "0.0.0",
+  "repository": "#",
+  "license": "UNLICENSED",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -9,5 +8,8 @@
   },
   "devDependencies": {
     "vite": "^2.9.9"
+  },
+  "dependencies": {
+    "three": "^0.134.0"
   }
 }
